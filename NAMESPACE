@@ -1,0 +1,3 @@
+useDynLib(mvblasso)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
